@@ -1,6 +1,6 @@
 # 🪐 dotfiles
 
-Meine persönlichen Konfigurationsdateien für ein minimalistisches Wayland-Setup.
+Meine persönlichen Konfigurationsdateien für ein minimalistisches Wayland-Setup ARCH BTW.
 
 > **Status:** Work in Progress (WIP). Das System läuft im grundlegenden Basis-Zustand, wird aber im Nachgang noch komplett angepasst und erweitert.
 
